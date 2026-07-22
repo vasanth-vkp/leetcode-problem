@@ -8,9 +8,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
