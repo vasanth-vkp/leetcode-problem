@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0416-partition-equal-subset-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0494-target-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,4 +55,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
