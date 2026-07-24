@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0044-wildcard-matching) |
+| [0064-minimum-path-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
@@ -33,10 +34,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0064-minimum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0494-target-sum) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
