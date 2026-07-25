@@ -1,24 +1,31 @@
-class Solution{
-    public int lengthOfLIS(int[] nums){
-        int[] arr=new int[nums.length];
-        int len=0;
+import java.util.*;
 
-        for(int num:nums){
-            int l=0,r=len;
-            while(l<r){
-                int mid=l+(r-l)/2;
-                if(arr[mid]<num){
-                    l=mid+1;
-                }else{
-                    r=mid;
-                }
-            }
-            arr[l]=num;
-            if(l==len){
-                len++;
+class Solution {
+    public int lengthOfLIS(int[] nums) {
+        Vector<Integer> arr = new Vector<>();
+        arr.add(nums[0]);
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] > arr.get(arr.size() - 1)) {
+                arr.add(nums[i]);
+            } else {
+                int idx = lowerBound(arr, nums[i]);
+                arr.set(idx, nums[i]);
             }
         }
+        return arr.size();
+    }
+    private int lowerBound(Vector<Integer> arr, int target) {
+        int low = 0;
+        int high = arr.size() - 1;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
 
-        return len;
+            if (arr.get(mid) < target) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
+            }
+        }
+        return low;
     }
 }
