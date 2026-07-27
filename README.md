@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0494-target-sum) |
 | [0875-koko-eating-bananas](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
