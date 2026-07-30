@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0647-palindromic-substrings) |
 ## String
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0072-edit-distance) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
