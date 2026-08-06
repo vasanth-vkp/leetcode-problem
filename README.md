@@ -143,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vasanth-vkp/leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vasanth-vkp/leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
