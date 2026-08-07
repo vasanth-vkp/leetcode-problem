@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
 | ------- |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vasanth-vkp/leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
