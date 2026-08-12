@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0494-target-sum) |
+| [0525-contiguous-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0219-contains-duplicate-ii) |
+| [0525-contiguous-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/vasanth-vkp/leetcode-problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -176,5 +178,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
