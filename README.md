@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/vasanth-vkp/leetcode-problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Backtracking
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3360-stone-removal-game](https://github.com/vasanth-vkp/leetcode-problem/tree/master/3360-stone-removal-game) |
 ## Bit Manipulation
 |  |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
