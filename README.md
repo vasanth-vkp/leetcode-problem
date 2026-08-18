@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0684-redundant-connection](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
@@ -195,11 +196,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0743-network-delay-time) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
