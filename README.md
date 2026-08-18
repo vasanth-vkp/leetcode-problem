@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0647-palindromic-substrings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Greedy
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Stack
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -187,4 +190,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
