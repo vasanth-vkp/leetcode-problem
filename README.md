@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
+| [0815-bus-routes](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0815-bus-routes) |
 | [0875-koko-eating-bananas](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0219-contains-duplicate-ii) |
 | [0525-contiguous-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
+| [0815-bus-routes](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0815-bus-routes) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/vasanth-vkp/leetcode-problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Divide and Conquer
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0815-bus-routes](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0815-bus-routes) |
 | [0994-rotting-oranges](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
