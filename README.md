@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Greedy
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0994-rotting-oranges) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0064-minimum-path-sum) |
+| [0542-01-matrix](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
