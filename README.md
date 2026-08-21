@@ -183,12 +183,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0062-unique-paths) |
 | [0319-bulb-switcher](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0342-power-of-four) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vasanth-vkp/leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/vasanth-vkp/leetcode-problem/tree/master/3360-stone-removal-game) |
 ## Enumeration
