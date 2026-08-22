@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0044-wildcard-matching) |
+| [0605-can-place-flowers](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0605-can-place-flowers) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0605-can-place-flowers) |
 | [0815-bus-routes](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0815-bus-routes) |
 | [0875-koko-eating-bananas](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0994-rotting-oranges) |
