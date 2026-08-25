@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0494-target-sum) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0342-power-of-four) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vasanth-vkp/leetcode-problem/tree/master/2206-divide-array-into-equal-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/vasanth-vkp/leetcode-problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
