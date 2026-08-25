@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0098-validate-binary-search-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0110-balanced-binary-tree) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0098-validate-binary-search-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0110-balanced-binary-tree) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0399-evaluate-division](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0542-01-matrix) |
