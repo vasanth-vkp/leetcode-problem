@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0044-wildcard-matching) |
 | [0342-power-of-four](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0342-power-of-four) |
@@ -198,12 +199,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0062-unique-paths) |
 | [0319-bulb-switcher](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0342-power-of-four) |
