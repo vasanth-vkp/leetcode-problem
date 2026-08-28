@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0300-longest-increasing-subsequence) |
 | [0399-evaluate-division](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0399-evaluate-division) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0062-unique-paths) |
+| [0204-count-primes](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0342-power-of-four) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vasanth-vkp/leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
@@ -294,4 +297,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
