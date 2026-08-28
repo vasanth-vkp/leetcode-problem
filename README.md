@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vasanth-vkp/leetcode-problem/tree/master/2206-divide-array-into-equal-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vasanth-vkp/leetcode-problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0342-power-of-four) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vasanth-vkp/leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/vasanth-vkp/leetcode-problem/tree/master/3360-stone-removal-game) |
 ## Enumeration
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Primality Test
 |  |
 | ------- |
@@ -313,4 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0204-count-primes) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
