@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0365-water-and-jug-problem) |
+| [0728-self-dividing-numbers](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0728-self-dividing-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vasanth-vkp/leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
