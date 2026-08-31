@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0542-01-matrix) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0494-target-sum) |
 ## Matrix
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0491-non-decreasing-subsequences](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0491-non-decreasing-subsequences) |
 | [0525-contiguous-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0815-bus-routes](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0815-bus-routes) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0137-single-number-ii) |
 | [0338-counting-bits](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0342-power-of-four) |
+| [0491-non-decreasing-subsequences](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0491-non-decreasing-subsequences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vasanth-vkp/leetcode-problem/tree/master/2206-divide-array-into-equal-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/vasanth-vkp/leetcode-problem/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Prefix Sum
