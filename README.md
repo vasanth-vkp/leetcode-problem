@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0152-maximum-product-subarray) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0684-redundant-connection) |
 ## Bellman–Ford Algorithm
