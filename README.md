@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0219-contains-duplicate-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0994-rotting-oranges) |
 ## Binary Search
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0365-water-and-jug-problem](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0399-evaluate-division) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0365-water-and-jug-problem](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0684-redundant-connection) |
 ## Bellman–Ford Algorithm
