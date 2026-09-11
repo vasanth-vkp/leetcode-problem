@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0072-edit-distance) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0392-is-subsequence) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0215-kth-largest-element-in-an-array) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0169-majority-element) |
