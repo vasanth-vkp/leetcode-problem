@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0399-evaluate-division) |
 | [0647-palindromic-substrings](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0856-score-of-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
 |  |
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
