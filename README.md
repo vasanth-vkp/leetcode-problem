@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0365-water-and-jug-problem) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vasanth-vkp/leetcode-problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/vasanth-vkp/leetcode-problem/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vasanth-vkp/leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Primality Test
 |  |
